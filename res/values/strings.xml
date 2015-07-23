@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">Viewpager</string>
+    <string name="action_changeThemeString">Change Theme</string>
+    <string name="action_changeLanguageString">Change Language</string>
+    <string name="action_adjustVoiceString">Adjust Voice</string>
+    <string name="text1">#Record</string>
+    <string name="text3">#Play</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings2">Select Save Location</string>
+  	<string name="action_aboutUsString">About Us</string>
+
+</resources>

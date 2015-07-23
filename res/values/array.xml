@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="inputName"> 
+        <item>Please enter the file name to save</item> 
+        <item>请输入要保存的文件名</item> 
+    </string-array> 
+    <string-array name="ok">
+        <item>OK</item>
+        <item>确定</item>
+    </string-array>
+    <string-array name="cancel">
+        <item>Cancel</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="save">
+        <item>Save the recording?</item>
+        <item>是否保存该录音？</item>
+    </string-array>
+    <string-array name="deleteWord">
+        <item>Delete the record?</item>
+        <item>是否删除该录音？</item>
+    </string-array>
+    <string-array name="changeNameWord">
+        <item>Please enter a new name</item>
+        <item>请输入新的名称</item>
+    </string-array>
+    <string-array name="changeThemeWord">
+        <item>Change Theme</item>
+        <item>更换主题</item>
+    </string-array>
+    <string-array name="changeLanguageWord">
+        <item>Change Language</item>
+        <item>更换语言</item>
+    </string-array>
+    <string-array name="adjustVoiceString">
+        <item>Adjust Voice</item>
+        <item>调节声音</item>
+    </string-array>
+    <string-array name="text1">
+        <item>#Record</item>
+        <item>#录音</item>
+    </string-array>
+    <string-array name="text3">
+        <item>#Play</item>
+        <item>#播放</item>
+    </string-array>
+     <string-array name="cannotFindFile">
+        <item>Can not find the file</item>
+        <item>找不到文件</item>
+    </string-array>
+    <string-array name="notFoundRecord">
+        <item>The recording was not found</item>
+        <item>没有找到该录音</item>
+    </string-array>
+    <string-array name="continueSearch">
+        <item>Continue to search</item>
+        <item>继续搜寻</item>
+    </string-array>
+    <string-array name="gotoRecording">
+        <item>Go to the recording</item>
+        <item>前往录音</item>
+    </string-array>
+    <string-array name="aboutUs">
+        <item>About Us</item>
+        <item>关于我们</item>
+    </string-array>
+     <string-array name="pleaseInput">
+        <item>Please Input</item>
+        <item>请输入</item>
+    </string-array>
+    <string-array name="saveLocation">
+        <item>Change Save Location</item>
+        <item>修改存储路径</item>
+    </string-array>
+</resources>
